@@ -1,0 +1,35 @@
+#projects{
+    float: left;
+    width: 50%;
+    height: auto;
+}
+.card {
+    display:inline-block;
+}
+
+body {
+    background-image: url(https://wallpaperplay.com/walls/full/0/c/3/85143.jpg);
+}
+
+#contact {
+    float: right;
+    width: 50%;
+    height: auto;
+}
+
+#title {
+    text-align: center;
+    color: white;
+}
+
+.jumbotron {
+    background-image: url(https://studio.uxpincdn.com/studio/wp-content/uploads/2020/02/BlogpostHeader_CodingLanguages_1200x600-1024x512.png);
+}
+
+h2 {
+    color: white;
+}
+
+p {
+    color: white;
+}
